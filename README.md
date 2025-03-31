@@ -19,8 +19,8 @@ The repository is organized as follows:
 │   ├── dvc.yaml        # DVC pipeline definition
 │   ├── dvc.lock        # DVC lock file with stage outputs and checksums
 │   ├── .dvc/           # DVC configuration folder
-│   ├── .gitignore      # Git ignore file
-│   └── README.md       # This file
+│   ├── .gitignore      
+│   └── README.md       
      
 ```
 
@@ -53,3 +53,5 @@ name: Isabell Gurstein
 email: isabell.gurstein@realcore.de 
 
 dagshub: https://dagshub.com/Anomalisaa/examen-dvc
+
+github: https://github.com/Anomalisaa/examen-dvc
