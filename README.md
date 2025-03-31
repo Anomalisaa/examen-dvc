@@ -48,6 +48,8 @@ I added https://dagshub.com/licence.pedago as a collaborator with read-only acce
 I set up a DVC pipeline that reproduced the manual workflow by utilizing the scripts.
 
 # Credentials
-name: Isabell Gurstein //
-email: isabell.gurstein@realcore.de //
+name: Isabell Gurstein
+
+email: isabell.gurstein@realcore.de 
+
 dagshub: https://dagshub.com/Anomalisaa/examen-dvc
