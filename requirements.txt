@@ -1,0 +1,18 @@
+# Basics
+numpy
+pandas
+scikit-learn
+joblib
+
+# modelling
+xgboost   
+
+# metrics
+matplotlib
+seaborn
+
+# DVC + S3
+dvc[s3]
+
+# json
+json5
