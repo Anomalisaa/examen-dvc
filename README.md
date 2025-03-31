@@ -39,7 +39,7 @@ I forked the repository on GitHub and cloned it locally to work on my own soluti
 I also cloned the repo to my Dagshub account:https://dagshub.com/Anomalisaa/examen-dvc
 
 ### requirements.txt file
-/
+Set up a requirements.txt file.
 
 ### Remote Collaboration:
 I added https://dagshub.com/licence.pedago as a collaborator with read-only access for grading.
@@ -48,6 +48,6 @@ I added https://dagshub.com/licence.pedago as a collaborator with read-only acce
 I set up a DVC pipeline that reproduced the manual workflow by utilizing the scripts.
 
 # Credentials
-name: Isabell Gurstein 
-email: isabell.gurstein@realcore.de
+name: Isabell Gurstein //
+email: isabell.gurstein@realcore.de //
 dagshub: https://dagshub.com/Anomalisaa/examen-dvc
