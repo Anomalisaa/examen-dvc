@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  wrangle:
+    cmd: python src/data/wrangle.py
+    deps:
+    - path: data/raw/raw.csv
+      hash: md5
+      md5: 617b56af2992376d5c3e91ad80823898
+      size: 333757
+    - path: src/data/wrangle.py
+      hash: md5
+      md5: 06910cb22b29aae30b3090d9ff635eb9
+      size: 875
+    outs:
+    - path: data/raw/raw_new.csv
+      hash: md5
+      md5: d0fd98a2cb6e70699c20c0997cb25d5b
+      size: 294371
