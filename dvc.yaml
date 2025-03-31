@@ -1,0 +1,8 @@
+stages:
+  wrangle:
+    cmd: python src/data/wrangle.py
+    deps:
+    - data/raw/raw.csv
+    - src/data/wrangle.py
+    outs:
+    - data/raw/raw_new.csv
